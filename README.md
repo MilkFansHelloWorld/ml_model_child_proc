@@ -1,6 +1,7 @@
 # RESTFUL API to recognize white background handwritten digits based on MNIST
 
-Based on the MNIST dataset and tensorflow 2
+Based on the MNIST dataset and tensorflow 2.
+Sample homework project for the TechX 2020 Full Stack web dev students.
 
 *这里就给他们model文件夹里的东西，让他们用nodejs+express写一个简单的API，用child_process调用predict.py。*
 
